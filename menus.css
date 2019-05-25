@@ -1,0 +1,15 @@
+nav#menus li {
+	background-color:#ffffff;	
+	padding:2px;
+	margin: -2px;
+}
+
+nav#menus li:hover {
+	background-color:#000;
+	transition: background-color 1s;
+}
+
+nav#menus a:hover {
+	color:#ffffff;
+	transition: background-color 1s;
+}
